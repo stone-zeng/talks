@@ -1,6 +1,6 @@
-# Presentations
+# Talks
 
-This is a collection of my presentations.
+This is a collection of my talks.
 
 ## Physics
 
