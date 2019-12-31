@@ -45,15 +45,19 @@ This is a collection of my talks.
 
 ## Miscellaneous
 
+- [SimpleMD - A simple Markdown editor, written in Haskell](https://github.com/stone-zeng/presentations/blob/master/PDF/2019-12-31-simplemd.pdf)
+  - Dec 31, 2019 at Fudan University (Zhangjiang Campus)
+  - Project of *INFO630078: From C++ to Haskell &mdash; Introduction to Functional Programming*
+  - See [stone-zeng/simplemd](https://github.com/stone-zeng/simplemd)
 - [Aluminium Typeface](https://github.com/stone-zeng/presentations/blob/master/PDF/2019-08-24-aluminium-typeface.pdf)
   - Aug 24, 2019 at Tongji University
   - Project of [TypeSchool 2019](https://3type.cn/events/typeschool_1908_latin) by 3type
-- [Moore’s Law and Intel&reg;](https://github.com/stone-zeng/presentations/blob/master/PDF/2015-11-19-moore-law-intel.pdf) (in Chinese)
+- [Moore&rsquo;s Law and Intel&reg;](https://github.com/stone-zeng/presentations/blob/master/PDF/2015-11-19-moore-law-intel.pdf) (in Chinese)
   - Nov 19, 2015 at Fudan University (not given)
   - Presentation of *INFO119001: Microelectronic Technology*
 
 ---
 
-Copyright (C) 2015&ndash;2019 by Xiangdong Zeng.
+Copyright (C) 2015&ndash;2020 by Xiangdong Zeng.
 
 Licensed under the [CC BY-SA 4.0](LICENSE) License.
