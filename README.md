@@ -39,12 +39,17 @@ This is a collection of my talks.
 - [Modern LaTeX in a Nutshell](https://github.com/stone-zeng/presentations/blob/master/PDF/2019-04-18-latex-talk.pdf) (in Chinese)
   - Apr 18, 2019 at Fudan University
   - See [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk)
+  - Video can be found at [bilibili/BV1RE411W7FS](https://www.bilibili.com/video/BV1RE411W7FS) (recorded on Mar 3, 2020)
 - [Introduction to LaTeX3: Background](https://github.com/stone-zeng/presentations/blob/master/PDF/2018-04-24-l3talk-background.pdf) (in Chinese)
   - Apr 24, 2018 (online, video not public yet)
   - See <https://stone-zeng.github.io/2019-02-24-l3tutorial-background/>
 
 ## Miscellaneous
 
+- [Mathematica in a Nutshell](https://github.com/stone-zeng/presentations/blob/master/PDF/2020-04-20-mathematica-talk.pdf)
+  - Apr 20, 2020 (online)
+  - Video can be found at [bilibili/BV1z64y1T7Nb](https://www.bilibili.com/video/BV1z64y1T7Nb) (in Chinese)
+  - See [stone-zeng/toys/wolfram/mathematica-talk](https://github.com/stone-zeng/toys/tree/master/wolfram/mathematica-talk)
 - [SimpleMD - A simple Markdown editor, written in Haskell](https://github.com/stone-zeng/presentations/blob/master/PDF/2019-12-31-simplemd.pdf)
   - Dec 31, 2019 at Fudan University (Zhangjiang Campus)
   - Project of *INFO630078: From C++ to Haskell &mdash; Introduction to Functional Programming*
