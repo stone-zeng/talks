@@ -4,6 +4,9 @@ This is a collection of my talks.
 
 ## Physics
 
+- [Holographic strange correlators](/PDF/2020-09-16-holographic-sc.pdf)
+  - Sep 16, 2020 at Fudan University
+  - Presentation of my PhD qualifying exam
 - [Tensor network representation for topological phases](/PDF/2020-05-31-tn-for-topological-order.pdf)
   - Map 31, 2020 (online)
   - Presentation of *MAST612110 Professional English*
