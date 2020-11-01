@@ -8,8 +8,8 @@ This is a collection of my talks.
   - Sep 16, 2020 at Fudan University
   - Presentation of my PhD qualifying exam
 - [Tensor network representation for topological phases](/PDF/2020-05-31-tn-for-topological-order.pdf)
-  - Map 31, 2020 (online)
-  - Presentation of *MAST612110 Professional English*
+  - May 31, 2020 (online)
+  - Presentation of *MAST612110: Professional English*
 - [Machine Learning and Ising Model](/PDF/2018-06-08-ising-ml.pdf)
   - Jun 8, 2018 at Fudan University
   - Defense of my bachelor thesis
@@ -40,6 +40,16 @@ This is a collection of my talks.
   - Nov 20, 2015 at Fudan University
   - Project of *PHYS130031: C Programming*
 
+## Typography & type design
+
+- [Chinese “All Over” Chinese: Superimposing Experiment on Hanzi](/PDF/2020-10-30-chinese-all-over-chinese.pdf)
+  - Oct 30, 2020 (online, video TBA)
+  - Presentation on [ATypI 2020 All Over](https://www.atypi.org/conferences/all-over-2020)
+  - See [把所有汉字叠写起来会怎么样呢？](https://stone-zeng.github.io/2020-06-13-han-overlay/)
+- [Aluminium Typeface](/PDF/2019-08-24-aluminium-typeface.pdf)
+  - Aug 24, 2019 at Tongji University
+  - Project of [TypeSchool 2019](https://3type.cn/events/typeschool_1908_latin) by 3type
+
 ## LaTeX
 
 - [Modern LaTeX in a Nutshell](/PDF/2019-04-18-latex-talk.pdf) (in Chinese)
@@ -60,9 +70,6 @@ This is a collection of my talks.
   - Dec 31, 2019 at Fudan University (Zhangjiang Campus)
   - Project of *INFO630078: From C++ to Haskell — Introduction to Functional Programming*
   - See [stone-zeng/simplemd](https://github.com/stone-zeng/simplemd)
-- [Aluminium Typeface](/PDF/2019-08-24-aluminium-typeface.pdf)
-  - Aug 24, 2019 at Tongji University
-  - Project of [TypeSchool 2019](https://3type.cn/events/typeschool_1908_latin) by 3type
 - [Moore’s Law and Intel®](/PDF/2015-11-19-moore-law-intel.pdf) (in Chinese)
   - Nov 19, 2015 at Fudan University (not given)
   - Presentation of *INFO119001: Microelectronic Technology*
