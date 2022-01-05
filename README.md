@@ -45,10 +45,11 @@ This is a collection of my talks.
 - [Chinese “All Over” Chinese: Superimposing Experiment on Hanzi](/PDF/2020-10-30-chinese-all-over-chinese.pdf)
   - Oct 30, 2020 (online, video TBA)
   - Presentation on [ATypI 2020 All Over](https://www.atypi.org/conferences/all-over-2020)
-  - See [把所有汉字叠写起来会怎么样呢？](https://stone-zeng.github.io/2020-06-13-han-overlay/)
+  - See <https://stone-zeng.github.io/2020-06-13-han-overlay>
 - [Aluminium Typeface](/PDF/2019-08-24-aluminium-typeface.pdf)
   - Aug 24, 2019 at Tongji University
   - Project of [TypeSchool 2019](https://3type.cn/events/typeschool_1908_latin) by 3type
+  - See [stone-zeng/aluminium](https://github.com/stone-zeng/aluminium)
 
 ## LaTeX
 
@@ -58,7 +59,7 @@ This is a collection of my talks.
   - Video can be found at [bilibili/BV1RE411W7FS](https://www.bilibili.com/video/BV1RE411W7FS) (recorded on Mar 3, 2020)
 - [Introduction to LaTeX3: Background](/PDF/2018-04-24-l3talk-background.pdf) (in Chinese)
   - Apr 24, 2018 (online, video not public yet)
-  - See <https://stone-zeng.github.io/2019-02-24-l3tutorial-background/>
+  - See <https://stone-zeng.github.io/2019-02-24-l3tutorial-background>
 
 ## Miscellaneous
 
@@ -76,6 +77,6 @@ This is a collection of my talks.
 
 ---
 
-Copyright (C) 2015–2020 by Xiangdong Zeng.
+Copyright &copy; 2015&ndash;2022 by Xiangdong Zeng.
 
 Licensed under the [CC BY-SA 4.0](LICENSE) License.
