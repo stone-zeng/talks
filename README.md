@@ -4,6 +4,9 @@ This is a collection of my talks.
 
 ## Physics
 
+- [Holographic strange correlators](/PDF/2021-05-13-holographic-sc.pdf)
+  - May 13, 2021 at Futian International Quantum Institute
+  - See [arXiv:2210.12127](https://arxiv.org/abs/2210.12127)
 - [Holographic strange correlators](/PDF/2020-09-16-holographic-sc.pdf)
   - Sep 16, 2020 at Fudan University
   - Presentation of my PhD qualifying exam
@@ -58,7 +61,7 @@ This is a collection of my talks.
   - See [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk)
   - Video can be found at [bilibili/BV1RE411W7FS](https://www.bilibili.com/video/BV1RE411W7FS) (recorded on Mar 3, 2020)
 - [Introduction to LaTeX3: Background](/PDF/2018-04-24-l3talk-background.pdf) (in Chinese)
-  - Apr 24, 2018 (online, video not public yet)
+  - Apr 24, 2018 (online, video not published)
   - See <https://stone-zeng.github.io/2019-02-24-l3tutorial-background>
 
 ## Miscellaneous
