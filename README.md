@@ -4,13 +4,17 @@ This is a collection of my talks.
 
 ## Physics
 
+- [Aspects on Tensor Networks for Topological Orders](/PDF/2023-12-15-tn-for-topological-orders.pdf)
+  - Dec 15, 2023 at Fudan University
+  - Presentation of my PhD defense
+  - See [stone-zeng/phd-thesis](https://github.com/stone-zeng/phd-thesis)
 - [Holographic strange correlators](/PDF/2021-05-13-holographic-sc.pdf)
   - May 13, 2021 at Futian International Quantum Institute
   - See [arXiv:2210.12127](https://arxiv.org/abs/2210.12127)
 - [Holographic strange correlators](/PDF/2020-09-16-holographic-sc.pdf)
   - Sep 16, 2020 at Fudan University
   - Presentation of my PhD qualifying exam
-- [Tensor network representation for topological phases](/PDF/2020-05-31-tn-for-topological-order.pdf)
+- [Tensor network representation for topological phases](/PDF/2020-05-31-tn-for-topological-phases.pdf)
   - May 31, 2020 (online)
   - Presentation of *MAST612110: Professional English*
 - [Machine Learning and Ising Model](/PDF/2018-06-08-ising-ml.pdf)
@@ -80,6 +84,6 @@ This is a collection of my talks.
 
 ---
 
-Copyright &copy; 2015&ndash;2022 by Xiangdong Zeng.
+Copyright &copy; 2015&ndash;2023 by Xiangdong Zeng.
 
 Licensed under the [CC BY-SA 4.0](LICENSE) License.
