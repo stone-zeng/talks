@@ -4,6 +4,8 @@ This is a collection of my talks.
 
 ## Physics
 
+- `zh` [Qiskit Experiments: Analysis](/PDF/2024-03-22-qiskit-experiments-analysis.pdf)
+  - Mar 22, 2024 at USTC Shanghai Institute
 - `zh` [Qiskit Experiments](/PDF/2024-03-01-qiskit-experiments.pdf)
   - Mar 1, 2024 at USTC Shanghai Institute
 - `en` [Aspects on Tensor Networks for Topological Orders](/PDF/2023-12-15-tn-for-topological-orders.pdf)
