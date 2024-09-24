@@ -2,12 +2,18 @@
 
 This is a collection of my talks.
 
-## Physics
+## Quantum computing
 
 - `zh` [Qiskit Experiments: Analysis](/PDF/2024-03-22-qiskit-experiments-analysis.pdf)
   - Mar 22, 2024 at USTC Shanghai Institute
 - `zh` [Qiskit Experiments](/PDF/2024-03-01-qiskit-experiments.pdf)
   - Mar 1, 2024 at USTC Shanghai Institute
+- `en` [Quantum Algorithms: Phase Estimation, Hamiltonian Simulation & Linear System “Solving”](/PDF/2017-12-11-quantum-algorithms.pdf)
+  - Dec 11, 2017 at Fudan University
+  - Presentation of *PHYS130067: Quantum Computation and Quantum Information*
+
+## General physics
+
 - `en` [Aspects on Tensor Networks for Topological Orders](/PDF/2023-12-15-tn-for-topological-orders.pdf)
   - Dec 15, 2023 at Fudan University
   - Presentation of my PhD defense
@@ -28,9 +34,6 @@ This is a collection of my talks.
 - `en` [Determinant Quantum Monte Carlo Method for Simulating Hubbard Model](/PDF/2017-12-28-dqmc.pdf)
   - Dec 28, 2017 at Fudan University
   - Project of *PHYS130035: Thermodynamics and Statistical Physics II*
-- `en` [Quantum Algorithms: Phase Estimation, Hamiltonian Simulation & Linear System “Solving”](/PDF/2017-12-11-quantum-algorithms.pdf)
-  - Dec 11, 2017 at Fudan University
-  - Presentation of *PHYS130067: Quantum Computation and Quantum Information*
 - `zh` [Non-linear Systems & Chaotic Circuit](/PDF/2017-06-14-non-linear-systems.pdf)
   - Jun 14, 2017 at Fudan University
   - Project of *PHYS130058: Experiments in Modern Physics I*
@@ -74,6 +77,8 @@ This is a collection of my talks.
 
 ## Miscellaneous
 
+- `zh` [Mypy - Optional static typing for Python](/PDF/2024-09-12-mypy.pdf)
+  - Sep 12, 2024 at USTC Shanghai Institute
 - `en` [Mathematica in a Nutshell](/PDF/2020-04-20-mathematica-talk.pdf)
   - Apr 20, 2020 (online)
   - Video can be found at [bilibili/BV1z64y1T7Nb](https://www.bilibili.com/video/BV1z64y1T7Nb) (in Chinese)
