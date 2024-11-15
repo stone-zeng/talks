@@ -4,6 +4,8 @@ This is a collection of my talks.
 
 ## Quantum computing
 
+- `en` [QEC 101: Introduction to quantum error correction](/PDF/2024-11-15-qec-101.pdf)
+  - Nov 15, 2024 at USTC Shanghai Institute
 - `zh` [Qiskit Experiments: Analysis](/PDF/2024-03-22-qiskit-experiments-analysis.pdf)
   - Mar 22, 2024 at USTC Shanghai Institute
 - `zh` [Qiskit Experiments](/PDF/2024-03-01-qiskit-experiments.pdf)
