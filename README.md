@@ -4,6 +4,8 @@ This is a collection of my talks.
 
 ## Quantum computing
 
+- `en` [Introduction to Willow](/PDF/2025-01-08-willow.pdf)
+  - Jan 8, 2025 at USTC Shanghai Institute
 - `en` [QEC 101: Introduction to quantum error correction](/PDF/2024-11-15-qec-101.pdf)
   - Nov 15, 2024 at USTC Shanghai Institute
 - `zh` [Qiskit Experiments: Analysis](/PDF/2024-03-22-qiskit-experiments-analysis.pdf)
@@ -95,6 +97,6 @@ This is a collection of my talks.
 
 ---
 
-Copyright &copy; 2015&ndash;2024 by Xiangdong Zeng.
+Copyright &copy; 2015&ndash;2025 by Xiangdong Zeng.
 
 Licensed under the [CC BY-SA 4.0](LICENSE) License.
