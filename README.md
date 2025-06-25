@@ -4,6 +4,8 @@ This is a collection of my talks.
 
 ## Quantum computing
 
+- `en` [Topological Quantum Computing](/PDF/2025-06-25-tqc.pdf)
+  - Jun 25, 2025 at Hefei National Laboratory (online)
 - `en` [Introduction to Willow](/PDF/2025-01-08-willow.pdf)
   - Jan 8, 2025 at USTC Shanghai Institute
 - `en` [QEC 101: Introduction to quantum error correction](/PDF/2024-11-15-qec-101.pdf)
