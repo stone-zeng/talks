@@ -20,6 +20,8 @@ This is a collection of my talks.
 
 ## General physics
 
+- `en` [Introduction to Tensor Networks](/PDF/2026-01-19-tensor-network.pdf)
+  - Jan 19, 2026 at USTC Shanghai Institute
 - `en` [Aspects on Tensor Networks for Topological Orders](/PDF/2023-12-15-tn-for-topological-orders.pdf)
   - Dec 15, 2023 at Fudan University
   - Presentation of my PhD defense
@@ -99,6 +101,6 @@ This is a collection of my talks.
 
 ---
 
-Copyright &copy; 2015&ndash;2025 by Xiangdong Zeng.
+Copyright &copy; 2015&ndash;2026 by Xiangdong Zeng.
 
 Licensed under the [CC BY-SA 4.0](LICENSE) License.
